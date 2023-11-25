@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "chokidar": "^3.5.3"
+  },
+  "name": "watcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This package is a utility for file watching and handling changes using chokidar library in Node.js. It provides functionalities to monitor file additions, changes, deletions, as well as directory additions and deletions."
+}
